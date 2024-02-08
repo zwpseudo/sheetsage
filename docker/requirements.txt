@@ -110,5 +110,4 @@ webencodings==0.5.1
 websockets==9.1
 Werkzeug==2.0.3
 widgetsnbextension==3.6.1
-yt-dlp @ git+https://github.com/yt-dlp/yt-dlp.git@926ccc84ef91498f3147b07d15eb5f40cd070471
 zipp==3.6.0
